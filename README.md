@@ -1,5 +1,5 @@
 # Segunda-Aula-de-Python
-Segunda Aula de Python 
+Segunda Aula de Python
 Data: 20/03/2024
 Local: Escola Técnica Senai Nami Jafet
 
